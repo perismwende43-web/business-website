@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Printing & IT Solutions</title>
+  <title>atatech office Solutions</title>
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
   <style>
     body { font-family: 'Poppins', sans-serif; margin: 0; padding: 0; background: #f4f6f9; color: #333; }
@@ -84,8 +84,8 @@
 </section>
 
 <footer>
-  <p>&copy; 2025 Printing & IT Solutions | All Rights Reserved</p>
-  <p>Made with ❤️ in Kenya | <a href="#">Privacy Policy</a></p>
+  <p>&copy; 2025 atatech office Solutions| All Rights Reserved</p>
+  <p>Made  in Kenya | <a href="#">Privacy Policy</a></p>
 </footer>
 
 <!-- Floating WhatsApp Button -->
@@ -132,7 +132,20 @@
   }
 
   loadProducts();
-</script>
+</script>Konica Minolta Bizhub C454e
+KSh 190,000 Original price was: KSh 190,000.KSh 125,000Current price is: KSh 125,000.
+
+45 pages per minute in colour and b/w
+Duplex copying / Network Printer / Color Scanner
+Maximum paper size SRA3
+Print Resolution of 1200 dpi x 1200 dpi
+Wireless printing
+New DADF with enhanced reading sensor reduces feeding error and paper jams
+Print upto 300 g / m2
+Print, copy, colour scan and fax functionality
+High performance
+Exceptionally low printing costs
+
 
 </body>
 </html>
