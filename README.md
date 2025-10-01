@@ -56,8 +56,8 @@
 <section class="hero">
   <h2>Reliable Printers, Toners & IT Solutions You Can Trust</h2>
   <p>Supplying original HP toners, printers, copiers, spare parts, refurbished machines, and computers.</p>
-  <a href="tel:+254700000000" class="button">📞 Call Now</a>
-  <a href="https://wa.me/254700000000" target="_blank" class="button">💬 WhatsApp Us</a>
+  <a href="tel:+254707045282" class="button">📞 Call Now</a>
+  <a href="https://wa.me/254707045282" target="_blank" class="button">💬 WhatsApp Us</a>
 </section>
 
 <section class="section" id="products">
@@ -79,8 +79,8 @@
 <section class="cta">
   <h2>Need Genuine HP Toner Today?</h2>
   <p>Call us now or chat with us on WhatsApp!</p>
-  <a href="tel:+254700000000">📞 Call Now</a>
-  <a href="https://wa.me/254700000000" target="_blank">💬 WhatsApp Us</a>
+  <a href="tel:+254707045282">📞 Call Now</a>
+  <a href="https://wa.me/254707045282" target="_blank">💬 WhatsApp Us</a>
 </section>
 
 <footer>
@@ -89,7 +89,7 @@
 </footer>
 
 <!-- Floating WhatsApp Button -->
-<a href="https://wa.me/254700000000" class="whatsapp-float" target="_blank">
+<a href="https://wa.me/254707045282" class="whatsapp-float" target="_blank">
   <i class="fab fa-whatsapp"></i>
 </a>
 
@@ -119,7 +119,7 @@
           <img src="${p.image}" alt="${p.name}">
           <h3>${p.name}</h3>
           <p>KES ${p.price}</p>
-          <a class="order-btn" target="_blank" href="https://wa.me/254700000000?text=Hello, I want to order: ${p.name} - KES ${p.price}">Order on WhatsApp</a>
+          <a class="order-btn" target="_blank" href="https://wa.me/254707045282?text=Hello, I want to order: ${p.name} - KES ${p.price}">Order on WhatsApp</a>
         `;
         productList.appendChild(productDiv);
       });
