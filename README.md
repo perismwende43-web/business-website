@@ -135,4 +135,122 @@
 
 
 </body>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Atatech Office Solutions</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+    header { background: #1e3a8a; color: #fff; padding: 20px; text-align: center; }
+    nav { background: #2563eb; padding: 10px; text-align: center; }
+    nav a { color: white; margin: 0 10px; text-decoration: none; font-weight: bold; }
+    nav a:hover { text-decoration: underline; }
+    section { padding: 40px; }
+    h2 { color: #1e3a8a; }
+    .product-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; }
+    .product-card { border: 1px solid #ddd; padding: 15px; text-align: center; border-radius: 8px; }
+    .product-card img { max-width: 100%; height: auto; border-radius: 5px; }
+    footer { background: #1e3a8a; color: white; text-align: center; padding: 20px; margin-top: 40px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Atatech Office Solutions</h1>
+    <p>Printers | Toners | Copiers | Spare Parts | Refurbished | Computers</p>
+  </header>
+
+  <nav>
+    <a href="#printers">Printers</a>
+    <a href="#toners">Toners</a>
+    <a href="#copiers">Copiers</a>
+    <a href="#spareparts">Spare Parts</a>
+    <a href="#refurbished">Refurbished</a>
+    <a href="#computers">Computers</a>
+    <a href="#others">Others</a>
+  </nav>
+
+  <section id="printers">
+    <h2>Printers</h2>
+    <div class="product-grid">
+      <div class="product-card">
+        <img src="images/printer1.jpg" alt="Printer">
+        <h3>HP LaserJet Pro</h3>
+        <p>Reliable and fast printer for office use.</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="toners">
+    <h2>HP Original Toners & Cartridges</h2>
+    <div class="product-grid">
+      <div class="product-card">
+        <img src="images/toner1.jpg" alt="Toner">
+        <h3>HP 83A Black</h3>
+        <p>Genuine HP toner for LaserJet printers.</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="copiers">
+    <h2>Copiers</h2>
+    <div class="product-grid">
+      <div class="product-card">
+        <img src="images/copier1.jpg" alt="Copier">
+        <h3>Canon ImageRunner</h3>
+        <p>High-speed copier with duplex printing.</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="spareparts">
+    <h2>Spare Parts</h2>
+    <div class="product-grid">
+      <div class="product-card">
+        <img src="images/sparepart1.jpg" alt="Spare Part">
+        <h3>Printer Drum</h3>
+        <p>Compatible replacement drum for HP printers.</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="refurbished">
+    <h2>Refurbished Products</h2>
+    <div class="product-grid">
+      <div class="product-card">
+        <img src="images/refurb1.jpg" alt="Refurbished">
+        <h3>Refurbished Laptop</h3>
+        <p>Affordable and reliable refurbished laptops.</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="computers">
+    <h2>Computers</h2>
+    <div class="product-grid">
+      <div class="product-card">
+        <img src="images/computer1.jpg" alt="Computer">
+        <h3>HP ProBook</h3>
+        <p>Business laptop with powerful performance.</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="others">
+    <h2>Other Products</h2>
+    <div class="product-grid">
+      <div class="product-card">
+        <img src="images/other1.jpg" alt="Other Product">
+        <h3>Networking Cables</h3>
+        <p>High-quality LAN cables and accessories.</p>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <p>📍 Nairobi CBD, Tom Mboya Street, Oshwal House</p>
+    <p>📞 0707045282 | ✉️ atatech@gmail.com</p>
+  </footer>
+</body>
 </html>
+
