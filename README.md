@@ -117,9 +117,9 @@
         productDiv.className = 'product';
         productDiv.innerHTML = `
           <img src="${p.image}" alt="${p.name}">
-          <h3>${p.name}</h3>
-          <p>KES ${p.price}</p>
-          <a class="order-btn" target="_blank" href="https://wa.me/254707045282?text=Hello, I want to order: ${p.name} - KES ${p.price}">Order on WhatsApp</a>
+          <h3>${}Kyocera TASKalfa 2553ci </h3>
+          <p>KES $KSh 120,000 Original price was: KSh 120,000.KSh 85,000{}</p>
+          <a class="order-btn" target="_blank" href="https://wa.me/254707045282?text=Hello, I want to order: ${Kyocera TASKalfa 2553ci} - KES $KSh 120,000 Original price was: KSh 120,000.KSh 85,000{}">Order on WhatsApp</a>
         `;
         productList.appendChild(productDiv);
       });
